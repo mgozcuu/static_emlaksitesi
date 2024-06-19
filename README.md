@@ -20,3 +20,12 @@ Projede yapılması istenilenler aşağıdadır.
 
 •Kullanılacak olan resimlerin boyutları web’e göre optimize edilmeli.•Web sitenizde kullanacağınız materyallerin lisans durumları konusunda hassasiyet gösterilmeli.
 
+![](https://github.com/mihrapgozcu/static_emlaksitesi/blob/main/emlak%20anasayfa.png)
+
+![](https://github.com/mihrapgozcu/static_emlaksitesi/blob/main/emlak%20listesi.png)
+
+![](https://github.com/mihrapgozcu/static_emlaksitesi/blob/main/emlak%20detay.png)
+
+![](https://github.com/mihrapgozcu/static_emlaksitesi/blob/main/hakk%C4%B1m%C4%B1zda.png)
+
+![](https://github.com/mihrapgozcu/static_emlaksitesi/blob/main/iletisim.png)
