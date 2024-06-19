@@ -1,3 +1,5 @@
+# Emlakçı Sitesi
+
 Html, Css  ve Javascript kullanarak statik web sayfası tasarlayınız. 
 
 Projede yapılması istenilenler aşağıdadır.
