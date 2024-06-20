@@ -4,7 +4,7 @@ Html, Css  ve Javascript kullanarak statik web sayfası tasarlayınız.
 
 Projede yapılması istenilenler aşağıdadır.
 
-•En az 5 sayfadanveya kısımdanoluşmalı.
+•En az 5 sayfadan veya kısımdan oluşmalı.
 
 •Web sitesi istediğiniz bir konuda olabilir.
 
@@ -18,9 +18,13 @@ Projede yapılması istenilenler aşağıdadır.
 
 •Sayfalardan birinde mutlaka JSON verisini alıp sayfada verileri listeleyen JS kodu yazılmalı.
 
-•Mutlaka bir form kullanımı olmalı.•Sunucuya gönderilecek veriler, butona tıklanınca ekranda gösterilmeli.
+•Mutlaka bir form kullanımı olmalı.
 
-•Kullanılacak olan resimlerin boyutları web’e göre optimize edilmeli.•Web sitenizde kullanacağınız materyallerin lisans durumları konusunda hassasiyet gösterilmeli.
+•Sunucuya gönderilecek veriler, butona tıklanınca ekranda gösterilmeli.
+
+•Kullanılacak olan resimlerin boyutları web’e göre optimize edilmeli.
+
+•Web sitenizde kullanacağınız materyallerin lisans durumları konusunda hassasiyet gösterilmeli.
 
 ![](https://github.com/mihrapgozcu/static_emlaksitesi/blob/main/emlak%20anasayfa.png)
 
